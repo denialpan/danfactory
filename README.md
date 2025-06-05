@@ -2,7 +2,7 @@
 
 ### "creative-" techpack, as opposed to vanilla+.
 
-This modpack is built upon [Optimized Fps](https://modrinth.com/modpack/optimized-fps), an existing optimization 1.21.1 Neoforge vanilla modpack. Performance-wise, a long menu loading time and poor FPS/TPS is irritating, so many mods for branding and quests are 100% not included. Everything should be fast and smooth.
+This modpack is built upon [Optimized Fps](https://modrinth.com/modpack/optimized-fps), an existing optimization 1.21.1 Neoforge vanilla modpack. Performance-wise, a long menu loading time and poor FPS/TPS is irritating, so many mods for branding and quests are 100% not included. Everything should be fast and smooth, even alt-tabbing.
 
 For playstyle, the arbitrary end goal is to automate every item, block, and mob in a extremely quick/broken manner, while still focusing on aesthetics and building. Here is the list of mods specifically added in mind to help achieve the end goal:
 
