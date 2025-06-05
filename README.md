@@ -30,3 +30,5 @@ For playstyle, the arbitrary end goal is to automate every item, block, and mob 
 - [Effortless Structure](https://modrinth.com/mod/effortless) - since building a wall should be easy
 
 There is a multitude of other mods in here to make the world more lively, but the intended playstyle is to build nice structures, giving purpose to machines and their existence instead of out in the open or underground.
+
+_Personal server seed that is a good start: `-3278902392877711250`_
