@@ -23,7 +23,7 @@ For playstyle, the arbitrary end goal is to automate every item, block, and mob 
 #### Decoration 
 - [Gaming Console](https://modrinth.com/mod/decorative-gaming-consoles) - sitback type of decoration
 - [Modern Decoration](https://modrinth.com/mod/modern-decorations-mod) / [ModernDeco](https://modrinth.com/mod/moderndeco) - since we're playing the modern age of tech, decoration should reflect that
-- Chisels and Bits - infinite pixel decoration
+- [Chisels and Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits) - infinite pixel decoration
 - [City Craft](https://modrinth.com/mod/rexs-city-craft) - roads and such
 
 #### Quality of Life
