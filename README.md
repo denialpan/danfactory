@@ -2,7 +2,7 @@
 
 ### "creative-" techpack, as opposed to vanilla+.
 
-This modpack is built upon [Optimized Fps](https://modrinth.com/modpack/optimized-fps), an existing optimization 1.21.1 Neoforge vanilla modpack. Performance-wise, a long menu loading time and poor FPS/TPS is irritating, so many mods for branding and quests are 100% not included. Everything should be fast and smooth, even alt-tabbing.
+This modpack is built upon [Optimized Fps](https://modrinth.com/modpack/optimized-fps), an existing optimization 1.21.1 Neoforge vanilla modpack. Performance-wise, a long menu loading time and poor FPS/TPS is irritating, so many mods for branding and quests and entity spam are 100% not included. Everything should be fast and smooth, even alt-tabbing.
 
 For playstyle, the arbitrary end goal is to automate every item, block, and mob in a extremely quick/broken manner, while still focusing on aesthetics and building. Here is the list of mods specifically added in mind to help achieve the end goal:
 
@@ -10,6 +10,7 @@ For playstyle, the arbitrary end goal is to automate every item, block, and mob 
 - [Modern Industrialization](https://www.curseforge.com/minecraft/mc-mods/modern-industrialization) - self sustaining machinery
 - [Applied Energistics 2](https://modrinth.com/mod/ae2) - massive storage
 - [Mekanism](https://modrinth.com/mod/mekanism) - broken power generation, even more broken cardboard box for AE2
+- [Extreme Reactors](https://modrinth.com/mod/extreme-reactors) - alternative power generation
 - [Create](https://modrinth.com/mod/create) - automates some recipes easier
 - [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm) - automates mobs, entity lag free farming
 - [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte) - late game items for free basically
