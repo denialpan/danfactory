@@ -42,6 +42,7 @@ def main():
             "config",
             "server.properties",
             "server-icon.png",
+            "world/data/lostcities_data.dat",
         },
         "client": {
             "minecraft/config",
